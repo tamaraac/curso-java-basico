@@ -6,4 +6,7 @@
 **MOFIED**: arquivo foi salvo mais ainda nao foi levado pra seeeeer salvo em imagem 
 **STAGED**: Estou pronto para ser commitado pronto para ser salvo
 
-teste git desfazendo mudanças testes
+git checkout para retornar os meus arquivos e modificações ainda entao em estado edição
+git reset se quiser retornar commites e ate arquivos  que estão staged
+
+
