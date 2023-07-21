@@ -8,6 +8,6 @@
 
 git commit -am <br>
 git checkout para retornar os meus arquivos e modificações ainda entao em estado edição<br>
-git reset se quiser retornar commites e ate arquivos  que estão staged
+git reset se quiser retornar commites e ate arquivos  que estão staged<br> 
 
 
