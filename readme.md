@@ -17,6 +17,7 @@ Para juntarmos as modificações temos dois metodos para isso! o merge e o rebas
 
 ## Merge X Rebase
 <br>
+
 **Merge** serve pra juntar, ele junta o que tenho na branch externa com o conteúdo da branch principal 
 <br>
 Sempre e criado outra branch para assim juntarmos e fazer merge.
