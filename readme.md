@@ -3,7 +3,7 @@
 A logica de programação é a base para aprender JAVA e ou qualquer linguagem de programação.<br>
 E nesse estudo de logica com programação vamos ver alguns conceitos que são muito importante e que são base para dominar qualquer linguagem de programação.
 
-## Variaveis 
+### Variaveis 
 
 São espaços em memoria, que podem possuir valores. Pense nisso como se fossem caixas, nas quais voce pode colocar
 algo dentro e remover sempre que quiser.<br>
@@ -17,9 +17,9 @@ inicialização variavel
 <tipo_variavel> <nome_variavel> = <valor_para_variavel>
 String  Nome = "Anderson
 
-tipos primitivos
+## Tipos Primitivos
 
-int = 12,90,0,7;
-float=1,0,100,09;
-char='r','f','a','b';
+**int** = 12,90,0,7;
+**float**=1,0,100,09;
+**char**='r','f','a','b';
 
