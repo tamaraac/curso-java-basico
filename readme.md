@@ -15,7 +15,7 @@ algo dentro e remover sempre que quiser.<br>
 String Nome;
 
 **Inicialização Variavel**<br>
-**<tipo_variavel>** **<nome_variavel>** = **<valor_para_variavel>** <br>
+**<tipo_variavel>** **<nome_variavel>** = **<valor_para_variavel>** <br><br>
 String  Nome = "Anderson
 
 ## Tipos Primitivos
