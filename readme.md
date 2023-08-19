@@ -10,16 +10,16 @@ algo dentro e remover sempre que quiser.<br>
 
 **Declarando uma variavel**:
 
-<tipo_variavel> ><nome_variavel>; 
+**<tipo_variavel>** **<nome_variavel>**; 
 String Nome;
 
-inicialização variavel
-<tipo_variavel> <nome_variavel> = <valor_para_variavel>
+inicialização variavel<br>
+**<tipo_variavel>** **<nome_variavel>** = **<valor_para_variavel>**<br>
 String  Nome = "Anderson
 
 ## Tipos Primitivos
 
-**int** = 12,90,0,7;
-**float**=1,0,100,09;
-**char**='r','f','a','b';
+**int** = 12,90,0,7;<br>
+**float**=1,0,100,09;<br>
+**char**='r','f','a','b';<br>
 
