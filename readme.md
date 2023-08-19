@@ -13,7 +13,7 @@ algo dentro e remover sempre que quiser.<br>
 **<tipo_variavel>** **<nome_variavel>**; 
 String Nome;
 
-inicialização variavel<br>
+**Inicialização Variavel**<br>
 **<tipo_variavel>** **<nome_variavel>** = **<valor_para_variavel>**<br>
 String  Nome = "Anderson
 
