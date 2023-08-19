@@ -16,11 +16,11 @@ String Nome;
 
 **Inicialização Variavel**<br><br>
 **<tipo_variavel>** **<nome_variavel>** = **<valor_para_variavel>** <br>
-String  Nome = "Anderson
+String  Nome = "Anderson";
 
 ## Tipos Primitivos
 
 **int** = 12,90,0,7;<br>
 **float**=1,0,100,09;<br>
 **char**='r','f','a','b';<br>
-
+**boolean** = verdadeiro,falso/true,false/0/1;
