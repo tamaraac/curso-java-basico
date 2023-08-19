@@ -10,7 +10,8 @@ algo dentro e remover sempre que quiser.<br>
 
 **Declarando uma variavel**:
 
-**<tipo_variavel>** **<nome_variavel>**; 
+**<tipo_variavel>** **<nome_variavel>**;
+<br>
 String Nome;
 
 **Inicialização Variavel**<br>
