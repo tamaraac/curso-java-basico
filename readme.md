@@ -5,8 +5,21 @@ E nesse estudo de logica com programação vamos ver alguns conceitos que são m
 
 ## Variaveis 
 
-São espaços em memoria, que podem possuir valores. Pense nisso como se fossem caixas, nas quais voçe pode colocar
+São espaços em memoria, que podem possuir valores. Pense nisso como se fossem caixas, nas quais voce pode colocar
 algo dentro e remover sempre que quiser.<br>
 
-## Constantes 
-São espaços em memoria, que podem possuir valores, MAS ao contrario de Variaveis, constantes são valores **fixos** <br>
+**Declarando uma variavel**:
+
+<tipo_variavel> ><nome_variavel>; 
+String Nome;
+
+inicialização variavel
+<tipo_variavel> <nome_variavel> = <valor_para_variavel>
+String  Nome = "Anderson
+
+tipos primitivos
+
+int = 12,90,0,7;
+float=1,0,100,09;
+char='r','f','a','b';
+
